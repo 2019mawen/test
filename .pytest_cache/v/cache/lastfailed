@@ -1,0 +1,4 @@
+{
+  "test_parm.py::test_demo": true,
+  "test_parm.py::test_demo[xxx world-hello]": true
+}
